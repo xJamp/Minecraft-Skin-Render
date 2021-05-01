@@ -1,6 +1,6 @@
 ## Example
 
-#### Raw Skin
+### Raw Skin
 
 <img src='https://i.imgur.com/HqoJWhH.png' alt='Raw' /> 
 
@@ -18,7 +18,7 @@
 ```bash
 import Skinrender
 
-Head = Skinrender.load('ImgExample/Steve.png').head(scale = 14)
+Head = Skinrender.load('ImgExample/Steve.png').head(scale = 14) # return PIL object
 Body = Skinrender.load('ImgExample/Steve.png').body()
 Arm = Skinrender.load('ImgExample/Steve.png').arm()
 Leg = Skinrender.load('ImgExample/Steve.png').leg()
