@@ -7,16 +7,10 @@
 ### Render
 
 #### Face
-<img src='https://i.imgur.com/XpoN1vE.png' alt='front' /> 
-<img src='https://i.imgur.com/HnBa2fR.png' alt='back' /> 
-<img src='https://i.imgur.com/vIUDZ5j.png' alt='left' /> 
-<img src='https://i.imgur.com/sSur3vQ.png' alt='right' /> 
+<img src='https://i.imgur.com/XpoN1vE.png' alt='front' /> <img src='https://i.imgur.com/HnBa2fR.png' alt='back' /> <img src='https://i.imgur.com/vIUDZ5j.png' alt='left' /> <img src='https://i.imgur.com/sSur3vQ.png' alt='right' /> 
 
 #### Skin
-<img src='https://i.imgur.com/TrzhqT8.png' alt='front' /> 
-<img src='https://i.imgur.com/ZYmJrBz.png' alt='back' /> 
-<img src='https://i.imgur.com/Q56WscN.png' alt='left' /> 
-<img src='https://i.imgur.com/rYCNHU6.png' alt='right' /> 
+<img src='https://i.imgur.com/TrzhqT8.png' alt='front' /> <img src='https://i.imgur.com/ZYmJrBz.png' alt='back' /> <img src='https://i.imgur.com/Q56WscN.png' alt='left' /> <img src='https://i.imgur.com/rYCNHU6.png' alt='right' /> 
 
 
 ## Usage
